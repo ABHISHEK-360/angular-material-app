@@ -1,0 +1,46 @@
+.full-width {
+  width: 100%;
+}
+
+.top-container {
+  min-height: 100vh;
+  margin: 10;
+  padding: 0;
+  background-color: #c2c1c2;
+  z-index: 3;
+}
+
+.header-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-title {
+  min-width: 20%;
+  text-align: center;
+}
+
+.header-nav {
+  min-width: 40%;
+}
+
+.header-user {
+  min-width: 15%;
+}
+
+.route-text {
+  color: #ffffff;
+  margin: 10px;
+  font-size: 16px;
+}
+
+.reg-font {
+  font-size: 16px;
+}
+
+.gen-button {
+  font-size: 14px;
+  margin: 5px;
+  min-height: 30px;
+}
